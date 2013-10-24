@@ -1,0 +1,10 @@
+{
+	"name": "app.radioguyana.fm",
+	"description" : "Radio Guyana Apps landing page",
+	"url" : "http://app.radioguyana.fm",
+	"author": "Michael Dabydeen",
+	"dependencies" : {
+		"grunt" : "*", 
+		"bower" : "*"
+	}
+}
