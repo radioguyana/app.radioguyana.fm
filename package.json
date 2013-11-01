@@ -3,7 +3,13 @@
 	"description" : "Radio Guyana Apps landing page",
 	"url" : "http://app.radioguyana.fm",
 	"author": "Michael Dabydeen",
-	"dependencies" : {
+	"author-url": "http://www.michaeldabydeen.com",
+	"main": "Gruntfile.js",
+	"repository": {
+	    "type": "git",
+	    "url": "https://github.com/radioguyana/app.radioguyana.com.git"
+	  },
+	"devDependencies" : {
 		"grunt" : "*", 
 		"bower" : "*"
 	}
